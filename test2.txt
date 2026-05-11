@@ -1,0 +1,23 @@
+int x = 5;
+int y = 10;
+double z = 3.5;
+
+x = x + y * 2;
+print(x);
+
+if (x > 20) {
+    print(100);
+} else {
+    print(0);
+}
+
+int i = 0;
+while (i < 5) {
+    print(i);
+    i = i + 1;
+}
+
+int a = 1;
+int b = 2;
+int c = 3;
+print(a, b, c);
